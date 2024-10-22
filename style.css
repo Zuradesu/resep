@@ -64,10 +64,9 @@ body {
 }
 
 .teks, .teks2 {
-    max-width: 501px; 
+    max-width: 501px;  /*Ini biar max width nya sama*/
     margin-left: 60px; 
     margin-top: 20px;
-}
-
+}                       
 
 
